@@ -68,13 +68,7 @@
   * `git pull origin master`
 
 ### SASS
-Thus far, it appears that liquid is fully usable inside of our SASS files. For example:
-
-```
-li.logo a {
-  background: url('{{ "ferdinand-logo.svg" | asset_url }}') no-repeat center center;
-}
-```
+* Make `@font-face` declarations in the `assets/fonts.scss.liquid` folder
 
 # Reference
 * Default theme is [Shopify Naked](https://github.com/thisiscapra/shopify-naked)
