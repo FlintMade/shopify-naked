@@ -1,0 +1,16 @@
+{
+  "name": "flint-naked-shopify",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-exec": "~0.4.5",
+    "grunt-gulp": "^0.1.0",
+    "grunt-sass": "~0.5.0",
+    "gulp": "~3.8.11",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
